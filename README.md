@@ -11,17 +11,6 @@ A passionate student focusing on AI and data science :bar_chart:. I enjoy workin
 
 ### My skills include
 
-<p align="center">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="R" alt="R" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="SQL" alt="SQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/sql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="PHP" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Flutter" alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Dart" alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-</p>
 
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,php,py,r,js,html,css,java,nodejs,figma&theme=light))](https://skillicons.dev)
@@ -33,7 +22,10 @@ A passionate student focusing on AI and data science :bar_chart:. I enjoy workin
    <i>You miss 100% of the shots you don't take.</i>
    <br>
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/razan-aldakhil-20254526a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:aldrazu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+	[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
+<a target="_blank" href="https://www.linkedin.com/in/razan-aldakhil-20254526a"></a> 
+	[![My mail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+<a target="_blank" href="mailto:aldrazu@gmail.com"></a>
 <!-- Add other links here -->
 </p>
