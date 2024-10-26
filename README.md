@@ -5,4 +5,3 @@
 💻 Proficient in **Python**, **R**, **SQL**, and **Java**, with a strong interest in developing innovative AI solutions.  
 🌱 Always eager to learn and contribute to exciting projects in the field of **artificial intelligence**.  
 📫 Feel free to connect with me: [LinkedIn](https://sa.linkedin.com/in/razan-aldakhil-20254526a) | Email: [aldrazu@gmail.com](mailto:aldrazu@gmail.com)  
-![Flowers Picture]([URL_TO_YOUR_IMAGE](https://static.planetminecraft.com/files/image/minecraft/texture-pack/2023/493/16482300-untitled_xl.webp))  
