@@ -22,10 +22,11 @@ A passionate student focusing on AI and data science :bar_chart:. I enjoy workin
    <i>You miss 100% of the shots you don't take.</i>
    <br>
 <br><p/>
-	[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+	
 
-<a target="_blank" href="https://www.linkedin.com/in/razan-aldakhil-20254526a"></a> 
-	[![My mail](https://skillicons.dev/icons?i=gmail)](mailto:aldrazu@gmail.com)
-<a target="_blank" href="mailto:aldrazu@gmail.com"></a>
+### Contact Me
+
+[![My mail](https://skillicons.dev/icons?i=gmail)](mailto:aldrazu@gmail.com)
+[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/razan-aldakhil-20254526a)
 <!-- Add other links here -->
 
