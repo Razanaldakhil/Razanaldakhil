@@ -1,7 +1,4 @@
- <div class="tenor-gif-embed" data-postid="27290748" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-	 <a href="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290748">Data Code GIF</a>
-	 <a href="https://tenor.com/search/data-gifs">Data GIFs</a></div> 
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
 
 ### Hi there 👋 I'm Razan Aldakhil,
 
