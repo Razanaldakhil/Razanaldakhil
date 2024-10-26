@@ -25,7 +25,7 @@ A passionate student focusing on AI and data science :bar_chart:. I enjoy workin
 	[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 <a target="_blank" href="https://www.linkedin.com/in/razan-aldakhil-20254526a"></a> 
-	[![My mail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+	[![My mail](https://skillicons.dev/icons?i=gmail)](mailto:aldrazu@gmail.com)
 <a target="_blank" href="mailto:aldrazu@gmail.com"></a>
 <!-- Add other links here -->
 
