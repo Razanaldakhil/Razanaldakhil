@@ -23,7 +23,9 @@ A passionate student focusing on AI and data science :bar_chart:. I enjoy workin
 	<img title="Dart" alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,php,py,r,js,html,css,java,nodejs,figma&theme=light))](https://skillicons.dev)
+
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways, and there's always an easier way to solve a problem.</i>
