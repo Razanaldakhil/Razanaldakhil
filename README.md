@@ -15,7 +15,6 @@ A passionate student focusing on AI and data science :bar_chart:. I enjoy workin
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="R" alt="R" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="SQL" alt="SQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/sql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Java" alt="Java" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/java.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="PHP" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
@@ -24,7 +23,7 @@ A passionate student focusing on AI and data science :bar_chart:. I enjoy workin
 	<img title="Dart" alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma&theme=light)](https://skillicons.dev)
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways, and there's always an easier way to solve a problem.</i>
