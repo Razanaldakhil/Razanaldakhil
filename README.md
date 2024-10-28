@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I'm Razan Aldakhil,
 
-A passionate student focusing on AI and data science :bar_chart:. I enjoy working on machine learning, data analytics, and innovative solutions. I strongly advocate for 📜 open source, :cloud: Cloud computing, and 🚀 automation.
+A passionate student focusing on AI and data science :bar_chart:. I enjoy working on machine learning, data analytics, and innovative solutions. 
 
 - ⚡ **I believe:** that even in seemingly unpredictable environments, there's always a sensible pattern waiting to be discovered.
 - :bulb: I'm interested in all things data: **Big Data, AI, Machine Learning, and Data Science**.
